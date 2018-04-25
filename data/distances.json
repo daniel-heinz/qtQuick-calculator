@@ -1,0 +1,34 @@
+{
+  "mm": {
+    "Name": "Millimeter",
+    "rate": 0.001
+  },
+  "cm": {
+    "Name": "Centimeter",
+    "rate": 0.01
+  },
+  "m": {
+    "Name": "Meters",
+    "rate": 1.0
+  },
+  "km": {
+    "Name": "Kilometer",
+    "rate": 1000.0
+  },
+  "in": {
+    "Name": "Inch",
+    "rate": 0.0254
+  },
+  "ft": {
+    "Name": "Foot",
+    "rate": 0.3048
+  },
+  "yd": {
+    "Name": "Yard",
+    "rate": 0.9144
+  },
+  "mi": {
+    "Name": "Mile",
+    "rate": 1609.344
+  }
+}

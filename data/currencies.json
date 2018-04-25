@@ -1,0 +1,37 @@
+{
+  "USD": {
+    "Symbol": "$",
+    "Name": "Dollar",
+    "Country": "USA"
+  },
+
+  "EUR": {
+    "Symbol": "€",
+    "Name": "Euro",
+    "Country": "Europa"
+  },
+
+  "GBP": {
+    "Symbol": "£",
+    "Name": "Pound sterling",
+    "Country": "United Kingdom"
+  },
+
+  "JPY": {
+    "Symbol": "¥",
+    "Name": "Yen",
+    "Country": "Japan"
+  },
+
+  "AUD": {
+    "Symbol": "A$",
+    "Name": "Australian dollar",
+    "Country": "Australia"
+  },
+
+  "CAD": {
+    "Symbol": "C$",
+    "Name": "Canadian dollar",
+    "Country": "Canada"
+  }
+}

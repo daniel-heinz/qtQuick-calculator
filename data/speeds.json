@@ -1,0 +1,22 @@
+{
+  "mps": {
+    "Name": "Meters per second",
+    "rate": 3.6
+  },
+  "kmh": {
+    "Name": "Kilometers per hour",
+    "rate": 1.0
+  },
+  "fps": {
+    "Name": "Feet per second",
+    "rate": 1.09728
+  },
+  "mph": {
+    "Name": "Miles per hour",
+    "rate": 1.6092
+  },
+  "kn": {
+    "Name": "Knots",
+    "rate": 1.85184
+  }
+}
